@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ncx version="2005-1" xml:lang="en" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+
+<head>
+    <meta content="isbn" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+</head>
+
+<docTitle>
+    <text>Sample .epub Book</text>
+</docTitle>
+
+<navMap>
+    <navPoint id="p1_ch1" playOrder="1">
+        <navLabel><text>1. A Voice from the Heights</text></navLabel>
+        <content src="p1_ch1-a-voice-from-the-heights.xhtml" />
+    </navPoint>
+
+    <navPoint id="p1_ch2" playOrder="2">
+        <navLabel><text>2. Freedom by Understanding</text></navLabel>
+        <content src="p1_ch2-freedom-by-understanding.xhtml" />
+    </navPoint>
+
+
+</navMap>
+
+</ncx>

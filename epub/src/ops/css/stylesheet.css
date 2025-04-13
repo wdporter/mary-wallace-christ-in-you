@@ -1,0 +1,9 @@
+h1, p {
+  text-align: left;
+}
+
+p { text-indent: 1em;}
+
+
+sup { line-height: 0; }
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="pub-id" version="3.0">
+
+	<metadata>
+	    <dc:title id="title">Christ in You</dc:title>
+	    <dc:creator role="aut">Mary B Wallace</dc:creator>
+	    <dc:identifier id="pub-id">b0044cbd-2672-4b97-a3fa-7c934b686800</dc:identifier>
+	    <meta property="dcterms:modified">2025-04-11T09:14:09Z</meta>
+	    <dc:language>en</dc:language>
+	</metadata>
+
+	<manifest>
+	    <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+	    <!-- <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" /> -->
+	    <item id="stylesheet" href="css/stylesheet.css" media-type="text/css" />
+	    <item id="footnotes" href="footnotes.xhtml" media-type="application/xhtml+xml" />
+	    <item id="p1" href="p1-christ-in-you.xhtml" media-type="application/xhtml+xml" />
+	    <item id="p1_ch1" href="p1_ch1-a-voice-from-the-heights.xhtml" media-type="application/xhtml+xml" />
+	    <item id="p1_ch2" href="p1_ch2-freedom-by-understanding.xhtml" media-type="application/xhtml+xml" />
+	    <item id="p1_ch3" href="p1_ch3-christ-the-life.xhtml" media-type="application/xhtml+xml" />
+	    <item id="p1_ch4" href="p1_ch4-prayer.xhtml" media-type="application/xhtml+xml" />
+			<item id="p1_ch5" href="p1_ch5-the-truth-of-being.xhtml" media-type="application/xhtml+xml" />
+	</manifest>
+
+	<spine> <!-- toc="ncx" --> 
+		<itemref idref="toc" />
+		<itemref idref="p1" />
+		<itemref idref="p1_ch1" />
+		<itemref idref="p1_ch2" />
+		<itemref idref="p1_ch3" />
+		<itemref idref="p1_ch4" />
+		<itemref idref="p1_ch5" />
+		<itemref idref="footnotes" />
+	</spine>
+
+</package>
