@@ -20,6 +20,7 @@
 	    <item id="p1_ch3" href="p1_ch3-christ-the-life.xhtml" media-type="application/xhtml+xml" />
 	    <item id="p1_ch4" href="p1_ch4-prayer.xhtml" media-type="application/xhtml+xml" />
 			<item id="p1_ch5" href="p1_ch5-the-truth-of-being.xhtml" media-type="application/xhtml+xml" />
+			<item id="p1_ch6" href="p1_ch6-god-all-in-all.xhtml" media-type="application/xhtml+xml" />
 	</manifest>
 
 	<spine> <!-- toc="ncx" --> 
@@ -30,6 +31,7 @@
 		<itemref idref="p1_ch3" />
 		<itemref idref="p1_ch4" />
 		<itemref idref="p1_ch5" />
+		<itemref idref="p1_ch6" />
 		<itemref idref="footnotes" />
 	</spine>
 
